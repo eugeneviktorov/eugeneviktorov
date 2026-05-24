@@ -45,4 +45,9 @@
 
 <h1 align="center" width="100%">📊 Stats Profile</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=eugenevve&theme=transparent)](https://git.io/streak-stats)
+<p align="center">
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=eugenevve&theme=transparent"
+  />
+</p>
