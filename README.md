@@ -21,9 +21,3 @@
 | JavaScript  | Next.js      | SQLite             | VS Code               | Clean Architecture           | GitHub Actions |
 | TypeScript  | Vite         | File System        | Termius               | Design & Prototyping         | Linux          |
 | Python      | Electron     | JWT Authentication | NPM                   | CI/CD                        | Bash Scripting |
-
-<br />
-
-## 📈 Contributions
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eugenevve&bg_color=00000000&color=7aa2f7&line=7aa2f7&point=7aa2f7&area=true&area_color=7aa2f7" />
