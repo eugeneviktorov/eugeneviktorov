@@ -1,8 +1,8 @@
-# 🐙 Hi, I'm Eugene
+# 🪼 Hi, I'm Eugene
 
-<a href="https://www.figma.com/@eugenevve">Figma</a> 〰️
-<a href="https://www.linkedin.com/in/eugenevve">LinkedIn</a> 〰️
-<a href="https://www.instagram.com/eugenevve">Instagram</a>
+[![image](https://img.shields.io/badge/Figma-8adeff?style=for-the-badge&logo=figma&logoColor=242424)](https://www.figma.com/@eugenevve)
+[![image](https://img.shields.io/badge/LinkedIn-8adeff?style=for-the-badge&logo=linkedin&logoColor=242424)](https://www.linkedin.com/in/eugenevve)
+[![image](https://img.shields.io/badge/Instagram-8adeff?style=for-the-badge&logo=instagram&logoColor=242424)](https://www.instagram.com/eugenevve)
 
 > _👨‍💻 Software Developer focused on building practical and scalable solutions<br />_
 > _🎓 IT specialist with two completed technical educations<br />_
