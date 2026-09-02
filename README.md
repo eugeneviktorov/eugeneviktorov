@@ -21,3 +21,9 @@
 | JavaScript  | Next.js      | SQLite             | VS Code               | Clean Architecture           | GitHub Actions |
 | TypeScript  | Vite         | File System        | Termius               | Design & Prototyping         | Linux          |
 | Python      | Electron     | JWT Authentication | NPM                   | CI/CD                        | Bash Scripting |
+
+<br />
+
+## 📊 Stats Profile
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=eugenevve&theme=blueberry-duo)](https://git.io/streak-stats)
